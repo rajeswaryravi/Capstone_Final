@@ -1,0 +1,34 @@
+{
+  "candidateDetails": [
+    {
+      "firstName": "Rajeswary",
+      "emailUser": "rajeswary@gmail.com",
+      "phoneUser": "9876543212",
+      "expUser": "React js and javascript",
+      "id": 1
+    },
+    {
+      "firstName": "Radhika",
+      "emailUser": "rad@gmail.com",
+      "phoneUser": "9876543213",
+      "expUser": "Angular js",
+      "id": 2
+    },
+    {
+      "firstName": "raj",
+      "emailUser": "raj@gmail.com",
+      "phoneUser": "9876543212",
+      "expUser": "Front end developer",
+      "id": 3
+    }
+  ],
+  "contactUser": [
+    {
+      "name": "Rajeswary",
+      "email": "rajeswary@gmail.com",
+      "phone": "9876543212",
+      "msg": "Nice experience",
+      "id": 1
+    }
+  ]
+}

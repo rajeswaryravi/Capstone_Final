@@ -1,0 +1,18 @@
+.cardsLink{
+color: #1c63e5 !important;
+}
+.singleCardJob{
+    width: 60rem;
+    text-align: center !important;
+}
+.cardtxt{
+    color: #9b9a98;
+    margin-bottom: 20px !important;
+}
+.cardtxt i {
+    font-style: normal;
+    font-size: 12px;
+}
+.card-container{
+    margin-bottom: 15px;
+}
